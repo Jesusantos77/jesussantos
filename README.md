@@ -58,3 +58,17 @@ Mi objetivo es especializarme en Ciencia de Datos e Inteligencia Artificial, apl
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jesusantos77&theme=tokyonight&hide_border=true"/>
 </p>
+
+## 🚀 Proyectos Destacados
+
+### 📊 Data Science Portfolio
+Colección de proyectos de análisis de datos, visualización y aprendizaje automático utilizando Python.
+
+### 🍽 Restaurant Management System
+Aplicación web desarrollada con React, FastAPI y PostgreSQL para la gestión de restaurantes.
+
+### 🔧 Workshop Management System
+Sistema para administrar talleres mecánicos con autenticación, gestión de clientes y órdenes de servicio.
+
+### 📐 Applied Mathematics with Python
+Implementaciones de métodos numéricos, álgebra lineal y optimización utilizando Python.
