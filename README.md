@@ -52,3 +52,9 @@ Mi objetivo es especializarme en Ciencia de Datos e Inteligencia Artificial, apl
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jesusantos77&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jesusantos77&theme=tokyonight&hide_border=true"/>
+</p>
